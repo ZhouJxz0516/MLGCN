@@ -51,7 +51,8 @@ After you are ready to run the environment, you can run it in the following way:
 
 4.Then wait for the running result to appear in the Python console：
 
-![Uploading image-20241217111740425.png…]()
+![image-20241217111740425](https://github.com/user-attachments/assets/b04b1219-c73d-4a81-9794-6aac7fe348a7)
+
 
 
 # File description
