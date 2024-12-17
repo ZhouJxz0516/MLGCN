@@ -36,19 +36,23 @@ After you are ready to run the environment, you can run it in the following way:
 
 1.Download the code from GitHub and unzip it to your own code workspace：
 
-![image-20241217111053079](C:\Users\23644\AppData\Roaming\Typora\typora-user-images\image-20241217111053079.png)
+![image-20241217111053079](https://github.com/user-attachments/assets/fae7eb4d-e469-4531-b4da-796c4ec18988)
+
 
 2.Ensure that you have configured the corresponding operating environment and switched to it：
 
-![image-20241217103053908](C:\Users\23644\AppData\Roaming\Typora\typora-user-images\image-20241217103053908.png)
+![image-20241217103053908](https://github.com/user-attachments/assets/543e5b74-6b95-4bdf-853b-cdb9215bad9c)
+
 
 3.Right click on the code area and click the run button：
 
-![image-20241217111507809](C:\Users\23644\AppData\Roaming\Typora\typora-user-images\image-20241217111507809.png)
+![image-20241217111507809](https://github.com/user-attachments/assets/e71280de-a56d-46e7-a877-614a038452c6)
+
 
 4.Then wait for the running result to appear in the Python console：
 
-![image-20241217111740425](C:\Users\23644\AppData\Roaming\Typora\typora-user-images\image-20241217111740425.png)
+![Uploading image-20241217111740425.png…]()
+
 
 # File description
 
