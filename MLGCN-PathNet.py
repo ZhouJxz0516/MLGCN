@@ -12,7 +12,7 @@ EPOCH = 970
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(device)
 data = torch.load("data/datadata_PathNet.pkl")
-data_str = torch.load('./data/str_fearures_PathNet_p=0.5_q=0.5_58.pkl')
+data_str = torch.load('./data/str_fearures_PathNet.pkl')
 data = data.to(device)
 
 @torch.no_grad()
