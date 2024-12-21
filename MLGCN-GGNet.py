@@ -13,7 +13,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(device)
 data = torch.load("data/datadata_GGNet.pkl")
 data = data.to(device)
-data_str = torch.load('./data/str_fearures_GGNet_p=0.5_q=0.5_58.pkl')
+data_str = torch.load('./data/str_fearures_GGNet.pkl')
 
 @torch.no_grad()
 def test(data, mask):
